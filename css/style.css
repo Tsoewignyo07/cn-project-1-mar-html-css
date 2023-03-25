@@ -1,0 +1,24 @@
+.three-column{
+    column-count: 3;
+    column-gap: 30px;
+    column-width: 200px;
+}
+
+.table-html{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-html th,
+.table-html td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+#kontak{
+    width: 600px;
+    border: 1px solid grey;
+    padding: 50px;
+    margin-top: 80px;
+    margin: 0 auto;
+}
